@@ -108,6 +108,7 @@ Antécédents médicaux : Conditions chroniques, chirurgies antérieures.
 Allergies : Réactions allergiques connues, en particulier aux médicaments.
 Médicaments actuels : Traitements en cours, y compris les médicaments en vente libre et les suppléments.
 Habitudes de vie : Alimentation, consommation d'alcool, tabagisme.
-Données de la carte Vitale : Accéder aux dossiers médicaux pour un historique complet des consultations et traitements.```
+Données de la carte Vitale : Accéder aux dossiers médicaux pour un historique complet des consultations et traitements.
+```
 
 ![image](./test.png)
