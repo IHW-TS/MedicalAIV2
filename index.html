@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Diagnostic App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Health Diagnostic App</h1>
+        <div id="form-container">
+            <label for="symptoms">Enter Symptoms (comma separated IDs):</label>
+            <input type="text" id="symptoms" placeholder="e.g. 188,238">
+            <label for="gender">Gender:</label>
+            <select id="gender">
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+            </select>
+            <label for="year_of_birth">Year of Birth:</label>
+            <input type="number" id="year_of_birth" placeholder="e.g. 1988">
+            <button id="get-diagnosis">Get Diagnosis</button>
+        </div>
+        <div id="symptoms-list">
+            <h2>Symptoms List</h2>
+            <div id="symptoms-container"></div>
+        </div>
+        <div id="results"></div>
+        <div id="history">
+            <h2>Diagnosis History</h2>
+        </div>
+    </div>
+    <script type="module" src="app.js"></script>
+</body>
+</html>
