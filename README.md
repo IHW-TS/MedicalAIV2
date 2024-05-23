@@ -1,6 +1,7 @@
 # Health Diagnostic App
 
 This is a simple web application that uses the Priaid health API to diagnose potential health issues based on user input symptoms.
+!!! If the application does not work during your test, it may be due to the limitations of the free version of the API. Therefore, I have included screenshots of the tests below !!!
 
 ## How to Run
 
