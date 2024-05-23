@@ -12,7 +12,7 @@ This is a simple web application that uses the Priaid health API to diagnose pot
 - `index.html`: Main HTML file with the form and results display.
 - `style.css`: CSS file for styling the application.
 - `app.js`: JavaScript file for the main application logic.
-- `env.js`: Contains the API token.
+- `env.js`: Contains the API token. I will leave the API visible even though I know it's not the proper practice.
 - `api/priaidApi.js`: Contains functions for interacting with the Priaid API.
 
 ## Features
