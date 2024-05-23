@@ -110,4 +110,4 @@ Médicaments actuels : Traitements en cours, y compris les médicaments en vente
 Habitudes de vie : Alimentation, consommation d'alcool, tabagisme.
 Données de la carte Vitale : Accéder aux dossiers médicaux pour un historique complet des consultations et traitements.```
 
-![image](https://github.com/IHW-TS/MedicalAIV2/test.png
+![image](./test.png)
